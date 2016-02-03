@@ -1,3 +1,4 @@
+id: romeojuliet
 date: '1594'
 title: Romeo and Juliet
 full_title: The Tragedy of Romeo and Juliet
@@ -36,7 +37,8 @@ characters:
   servant-rj: Servant
   tybalt: Tybalt
 acts:
-- scenes:
+- act: 0
+  scenes:
   - act: 0
     scene: 1
     title: 'Verona: Mantua.'
@@ -57,7 +59,8 @@ acts:
       - Is now the two hours' traffic of our stage;
       - The which if you with patient ears attend,
       - What here shall miss, our toil shall strive to mend.
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: Verona. A public place.
@@ -1374,7 +1377,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 0
     title: Prologue.
@@ -2586,7 +2590,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: A public place.
@@ -3940,7 +3945,8 @@ acts:
     - speaker: null
       lines:
       - '[Exit]'
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: "Friar Laurence\u2019s cell."
@@ -4688,7 +4694,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: Mantua. A street.

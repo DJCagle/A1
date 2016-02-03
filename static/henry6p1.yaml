@@ -1,3 +1,4 @@
+id: henry6p1
 date: '1591'
 title: Henry VI, Part I
 full_title: History of Henry VI, Part I
@@ -58,7 +59,8 @@ characters:
   servingmen: Serving-Men
   warwick: Earl of Warwick
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: Westminster Abbey.
@@ -1053,7 +1055,8 @@ acts:
     - speaker: null
       lines:
       - '[Flourish. Exeunt]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: Before Orleans.
@@ -1918,7 +1921,8 @@ acts:
       - WINCHESTER, RICHARD PLANTAGENET, and others.
       - GLOUCESTER offers to put up a bill; BISHOP OF
       - WINCHESTER snatches it, and tears it]
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: London. The Parliament-house.
@@ -2792,7 +2796,8 @@ acts:
       - '[Enter KING HENRY VI, GLOUCESTER, BISHOP OF]'
       - WINCHESTER, YORK, SUFFOLK, SOMERSET, WARWICK,
       - TALBOT, EXETER, the Governor, of Paris, and others]
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: Paris. A hall of state.
@@ -3679,7 +3684,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: London. The palace.

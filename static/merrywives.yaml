@@ -1,3 +1,4 @@
+id: merrywives
 date: '1600'
 title: Merry Wives of Windsor
 full_title: Merry Wives of Windsor, The
@@ -27,7 +28,8 @@ characters:
   slender: Slender
   wmpage: William Page
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: "Windsor. Before PAGE\u2019s house."
@@ -1144,7 +1146,8 @@ acts:
     - speaker: null
       lines:
       - '[Exit]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: "Before PAGE\u2019S house."
@@ -2242,7 +2245,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: A field near Frogmore.
@@ -3560,7 +3564,8 @@ acts:
     - speaker: null
       lines:
       - '[Exit]'
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: A street.
@@ -4676,7 +4681,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: A room in the Garter Inn.

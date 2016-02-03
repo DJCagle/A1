@@ -1,3 +1,4 @@
+id: henry4p2
 date: '1597'
 title: Henry IV, Part II
 full_title: History of Henry IV, Part II
@@ -57,7 +58,8 @@ characters:
   warwick: Earl of Warwick
   westmoreland: Earl of Westmoreland
 acts:
-- scenes:
+- act: 0
+  scenes:
   - act: 0
     scene: 1
     title: "Warkworth. Before NORTHUMBERLAND\u2019S Castle"
@@ -107,7 +109,8 @@ acts:
       - And not a man of them brings other news
       - Than they have learnt of me. From Rumour's tongues
       - They bring smooth comforts false, worse than true wrongs.
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: "Warkworth. Before NORTHUMBERLAND\u2019S Castle"
@@ -954,7 +957,8 @@ acts:
     - speaker: null
       lines:
       - Exeunt
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: London. A street
@@ -2363,7 +2367,8 @@ acts:
       lines:
       - O, run Doll, run, run, good Come. [To BARDOLPH] She
       - comes blubber'd.--Yea, will you come, Doll?   Exeunt
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: Westminster. The palace
@@ -3064,7 +3069,8 @@ acts:
       - philosopher's two stones to me. If the young dace be a bait for
       - the old pike, I see no reason in the law of nature but I may snap
       - at him. Let time shape, and there an end.   Exit
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: Yorkshire. Within the Forest of Gaultree
@@ -4366,7 +4372,8 @@ acts:
       - Which vainly I suppos'd the Holy Land.
       - But bear me to that chamber; there I'll lie;
       - In that Jerusalem shall Harry die.    Exeunt
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: "Gloucestershire. SHALLOW\u2019S house"

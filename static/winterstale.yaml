@@ -1,3 +1,4 @@
+id: winterstale
 date: '1610'
 title: The Winter's Tale
 full_title: The Winter's Tale
@@ -37,7 +38,8 @@ characters:
   ThirdGentleman-wt: Third Gentleman
   Time: Time
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: "Antechamber in LEONTES\u2019 palace."
@@ -897,7 +899,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: "A room in LEONTES\u2019 palace."
@@ -1787,7 +1790,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: A sea-port in Sicilia.
@@ -2421,7 +2425,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: Chorus as Time speaks.
@@ -4247,7 +4252,8 @@ acts:
     - speaker: null
       lines:
       - '[Exit]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: "A room in LEONTES\u2019 palace."

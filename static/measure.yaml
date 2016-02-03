@@ -1,3 +1,4 @@
+id: measure
 date: '1604'
 title: Measure for Measure
 full_title: Measure for Measure
@@ -27,7 +28,8 @@ characters:
   Varrius-m4m: Varrius
   Vincentio-m4m: Vincentio
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: "An apartment in the DUKE\u2019S palace."
@@ -802,7 +804,8 @@ acts:
       - '[Exeunt]'
       - '[Enter ANGELO, ESCALUS, and a Justice, Provost,]'
       - Officers, and other Attendants, behind]
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: "A hall In ANGELO\u2019s house."
@@ -2131,7 +2134,8 @@ acts:
       - '[Exit]'
       - '[Enter DUKE VINCENTIO disguised as before, CLAUDIO,]'
       - and Provost]
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: A room in the prison.
@@ -3062,7 +3066,8 @@ acts:
       - 'Lights that do mislead the morn:'
       - But my kisses bring again, bring again;
       - Seals of love, but sealed in vain, sealed in vain.
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: "The moated grange at ST. LUKE\u2019s."
@@ -4083,7 +4088,8 @@ acts:
       - stand. Enter DUKE VINCENTIO, VARRIUS, Lords,
       - ANGELO, ESCALUS, LUCIO, Provost, Officers, and
       - Citizens, at several doors]
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: The city gate.

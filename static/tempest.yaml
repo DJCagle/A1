@@ -1,3 +1,4 @@
+id: tempest
 date: '1611'
 title: Tempest
 full_title: The Tempest
@@ -24,7 +25,8 @@ characters:
   Stephano-tem: Stephano
   Trinculo: Trinculo
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: 'On a ship at sea: a tempestuous noise'
@@ -1091,7 +1093,8 @@ acts:
       - '[Exeunt]'
       - '[Enter ALONSO, SEBASTIAN, ANTONIO, GONZALO,]'
       - ADRIAN, FRANCISCO, and others]
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: Another part of the island.
@@ -2105,7 +2108,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: "Before PROSPERO\u2019S Cell."
@@ -2804,7 +2808,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: "Before PROSPERO\u2019S cell."
@@ -3297,7 +3302,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: "Before PROSPERO\u2019S cell."

@@ -1,3 +1,4 @@
+id: kinglear
 date: '1605'
 title: King Lear
 full_title: The Tragedy of King Lear
@@ -28,7 +29,8 @@ characters:
   servant2-kl: Servant 2
   servant3-kl: Servant 3
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: "King Lear\u2019s Palace."
@@ -1577,7 +1579,8 @@ acts:
     - speaker: null
       lines:
       - Exeunt.
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: A court within the Castle of the Earl of Gloucester.
@@ -2723,7 +2726,8 @@ acts:
       lines:
       - 'Shut up your doors, my lord: ''tis a wild night.'
       - My Regan counsels well. Come out o' th' storm. [Exeunt.]
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: A heath. Storm still.
@@ -3804,7 +3808,8 @@ acts:
     - speaker: null
       lines:
       - Exeunt.
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: The heath.
@@ -5136,7 +5141,8 @@ acts:
       lines:
       - My point and period will be throughly wrought,
       - Or well or ill, as this day's battle's fought. Exit.
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: The British camp near Dover.

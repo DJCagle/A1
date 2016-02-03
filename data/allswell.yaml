@@ -1,3 +1,4 @@
+id: allswell
 date: '1602'
 title: All's Well That Ends Well
 full_title: All's Well That Ends Well
@@ -29,7 +30,8 @@ characters:
   dukeflorence: Duke of Florence
   kingfrance-aw: King of France
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: "Rousillon. The COUNT\u2019s palace."
@@ -940,7 +942,8 @@ acts:
       - '[Flourish of cornets. Enter the KING, attended]'
       - with divers young Lords taking leave for the
       - Florentine war; BERTRAM, and PAROLLES]
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: "Paris. The KING\u2019s palace."
@@ -2321,7 +2324,8 @@ acts:
       - '[Exeunt]'
       - '[Flourish. Enter the DUKE of Florence attended;]'
       - the two Frenchmen, with a troop of soldiers.
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: "Florence. The DUKE\u2019s palace."
@@ -3233,7 +3237,8 @@ acts:
       - '[Exeunt]'
       - '[Enter Second French Lord, with five or six other]'
       - Soldiers in ambush]
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: Without the Florentine camp.
@@ -4408,7 +4413,8 @@ acts:
       - '[Exeunt]'
       - '[Enter HELENA, Widow, and DIANA, with two]'
       - Attendants]
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: Marseilles. A street.

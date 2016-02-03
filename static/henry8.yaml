@@ -1,3 +1,4 @@
+id: henry8
 date: '1612'
 title: Henry VIII
 full_title: History of Henry VIII
@@ -50,7 +51,8 @@ characters:
   Vaux: Sir Nicholas Vaux
   Wolsey: Cardinal Wolsey
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 0
     title: Prologue.
@@ -1264,7 +1266,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt with trumpets]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: Westminster. A street.
@@ -2425,7 +2428,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt in manner as they entered]'
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: "London. QUEEN KATHARINE\u2019s apartments."
@@ -3504,7 +3508,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: A street in Westminster.
@@ -4103,7 +4108,8 @@ acts:
       - '[Exeunt, leading KATHARINE]'
       - '[Enter GARDINER, Bishop of Winchester, a Page with a]'
       - torch before him, met by LOVELL]
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: London. A gallery in the palace.

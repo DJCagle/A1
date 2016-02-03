@@ -1,3 +1,4 @@
+id: 12night
 date: '1599'
 title: Twelfth Night
 full_title: Twelfth Night, Or What You Will
@@ -21,7 +22,8 @@ characters:
   aguecheek: Sir Andrew Aguecheek
   belch: Sir Toby Belch
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: "DUKE ORSINO\u2019s palace."
@@ -1156,7 +1158,8 @@ acts:
     - speaker: null
       lines:
       - '[Exit]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: The sea-coast.
@@ -2296,7 +2299,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: "OLIVIA\u2019s garden."
@@ -3619,7 +3623,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: "Before OLIVIA\u2019s house."
@@ -4063,7 +4068,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: "Before OLIVIA\u2019s house."

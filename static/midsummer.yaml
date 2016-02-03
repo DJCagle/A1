@@ -1,3 +1,4 @@
+id: midsummer
 date: '1595'
 title: Midsummer Night's Dream
 full_title: A Midsummer Night's Dream
@@ -26,7 +27,8 @@ characters:
   Theseus: Theseus
   Titania: Titania
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: Athens. The palace of THESEUS.
@@ -597,7 +599,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: A wood near Athens.
@@ -1223,7 +1226,8 @@ acts:
     - speaker: null
       lines:
       - '[Exit]'
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: The wood. TITANIA lying asleep.
@@ -2395,7 +2399,8 @@ acts:
       - '[Enter TITANIA and BOTTOM; PEASEBLOSSOM, COBWEB, MOTH,]'
       - MUSTARDSEED, and other Fairies attending; OBERON
       - behind unseen]
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: The same. LYSANDER, DEMETRIUS, HELENA, and HERMIA
@@ -2842,7 +2847,8 @@ acts:
       - '[Exeunt]'
       - '[Enter THESEUS, HIPPOLYTA, PHILOSTRATE, Lords and]'
       - Attendants]
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: Athens. The palace of THESEUS.

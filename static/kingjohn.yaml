@@ -1,3 +1,4 @@
+id: kingjohn
 date: '1596'
 title: King John
 full_title: History of King John
@@ -30,7 +31,8 @@ characters:
   Salisbury-kj: Salisbury
   kingjohn: King John
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: "KING JOHN\u2019S palace."
@@ -449,7 +451,8 @@ acts:
       - '[Enter AUSTRIA and forces, drums, etc. on one side:]'
       - on the other KING PHILIP and his power; LEWIS,
       - ARTHUR, CONSTANCE and attendants]
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: France. Before Angiers.
@@ -1318,7 +1321,8 @@ acts:
     - speaker: null
       lines:
       - '[Exit]'
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: "The French King\u2019s pavilion."
@@ -2274,7 +2278,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: A room in a castle.
@@ -3233,7 +3238,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: "KING JOHN\u2019S palace."

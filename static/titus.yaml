@@ -1,3 +1,4 @@
+id: titus
 date: '1593'
 title: Titus Andronicus
 full_title: Titus Andronicus
@@ -33,7 +34,8 @@ characters:
   captain-ta: Captain
   clown-ta: Clown
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: Rome. Before the Capitol.
@@ -840,7 +842,8 @@ acts:
     - speaker: null
       lines:
       - '[Flourish. Exeunt]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: Rome. Before the Palace.
@@ -1724,7 +1727,8 @@ acts:
       - '[Enter Judges, Senators and Tribunes, with MARTIUS]'
       - and QUINTUS, bound, passing on to the place of
       - execution; TITUS going before, pleading]
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: Rome. A street.
@@ -2311,7 +2315,8 @@ acts:
       - '[Enter young LUCIUS, and LAVINIA running after him,]'
       - and the boy flies from her, with books under his
       - arm. Then enter TITUS and MARCUS]
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: "Rome. Titus\u2019s garden."
@@ -3234,7 +3239,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: Plains near Rome.

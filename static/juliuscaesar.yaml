@@ -1,3 +1,4 @@
+id: juliuscaesar
 date: '1599'
 title: Julius Caesar
 full_title: The Tragedy of Julius Caesar
@@ -52,7 +53,8 @@ characters:
   octavius: Octavius
   publius-jc: Publius
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: Rome. A street.
@@ -975,7 +977,8 @@ acts:
     - speaker: null
       lines:
       - Exeunt
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: "Rome. BRUTUS\u2019s orchard."
@@ -1911,7 +1914,8 @@ acts:
       - CASSIUS, CASCA, DECIUS BRUTUS, METELLUS CIMBER,
       - TREBONIUS, CINNA, ANTONY, LEPIDUS, POPILIUS,
       - PUBLIUS, and others
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: Rome. Before the Capitol; the Senate sitting above.
@@ -3037,7 +3041,8 @@ acts:
     - speaker: null
       lines:
       - Exeunt
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: A house in Rome.
@@ -3933,7 +3938,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: The plains of Philippi.

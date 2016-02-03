@@ -1,3 +1,4 @@
+id: richard2
 date: '1595'
 title: Richard II
 full_title: History of Richard II
@@ -38,7 +39,8 @@ characters:
   henry4: Henry IV
   hotspur: Hotspur (Henry Percy)
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: "London. KING RICHARD II\u2019s palace."
@@ -977,7 +979,8 @@ acts:
       - '[Exeunt]'
       - '[Enter JOHN OF GAUNT sick, with the DUKE OF YORK,]'
       - '&c]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: Ely House.
@@ -1988,7 +1991,8 @@ acts:
       - '[Enter HENRY BOLINGBROKE, DUKE OF YORK,]'
       - NORTHUMBERLAND, LORD ROSS, HENRY PERCY, LORD
       - WILLOUGHBY, with BUSHY and GREEN, prisoners]
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: Bristol. Before the castle.
@@ -2831,7 +2835,8 @@ acts:
       - FITZWATER, DUKE OF SURREY, the BISHOP OF CARLISLE,
       - the Abbot Of Westminster, and another Lord, Herald,
       - Officers, and BAGOT]
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: Westminster Hall.
@@ -3341,7 +3346,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: London. A street leading to the Tower.

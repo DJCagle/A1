@@ -1,3 +1,4 @@
+id: pericles
 date: '1608'
 title: Pericles
 full_title: Pericles, Prince of Tyre
@@ -49,7 +50,8 @@ characters:
   ThirdPirate: Third Pirate
   TyrianSailor: Tyrian Sailor
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 0
     title: Prologue.
@@ -791,7 +793,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: Pentapolis. An open place by the sea-side.
@@ -1786,7 +1789,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 0
     title: Chorus.
@@ -2359,7 +2363,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 0
     title: Near the seashore.
@@ -3491,7 +3496,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 0
     title: Chorus.

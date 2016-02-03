@@ -1,3 +1,4 @@
+id: othello
 date: '1604'
 title: Othello
 full_title: The Tragedy of Othello, Moor of Venice
@@ -30,7 +31,8 @@ characters:
   sailor-oth: Sailor
   senator-oth: Senator
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: Venice. A street.
@@ -1175,7 +1177,8 @@ acts:
     - speaker: null
       lines:
       - '[Exit]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: A Sea-port in Cyprus. An open place near the quay.
@@ -2402,7 +2405,8 @@ acts:
     - speaker: null
       lines:
       - '[Exit]'
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: Before the castle.
@@ -3900,7 +3904,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: Cyprus. Before the castle.
@@ -5264,7 +5269,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: Cyprus. A street.

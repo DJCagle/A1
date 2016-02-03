@@ -23,5 +23,11 @@ def index():
     return render_template('index.html', plays=plays)
 
 
+@app.route('/plays/<int:aid>/')
+def play(aid):
+    play = plays.values()[aid]
+    return render_template('play.html', play=play)
+
+
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True)

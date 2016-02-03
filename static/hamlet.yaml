@@ -1,3 +1,4 @@
+id: hamlet
 date: '1600'
 title: Hamlet
 full_title: Tragedy of Hamlet, Prince of Denmark, The
@@ -36,7 +37,8 @@ characters:
   servant-ham: Servant
   voltemand: Voltemand
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: Elsinore. A platform before the Castle.
@@ -1551,7 +1553,8 @@ acts:
     - speaker: null
       lines:
       - Exeunt.
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: Elsinore. A room in the house of Polonius.
@@ -2772,7 +2775,8 @@ acts:
       - Abuses me to damn me. I'll have grounds
       - More relative than this. The play's the thing
       - Wherein I'll catch the conscience of the King. Exit.
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: Elsinore. A room in the Castle.
@@ -4288,7 +4292,8 @@ acts:
     - speaker: null
       lines:
       - Polonius.
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: Elsinore. A room in the Castle.
@@ -5445,7 +5450,8 @@ acts:
     - speaker: null
       lines:
       - Exeunt.
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: Elsinore. A churchyard.

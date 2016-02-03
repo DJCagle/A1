@@ -1,3 +1,4 @@
+id: timonathens
 date: '1607'
 title: Timon of Athens
 full_title: The Tragedy of Timon of Athens
@@ -60,7 +61,8 @@ characters:
   VarroSecond: Varro's Second Servant
   Ventidius: Ventidius
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: "Athens. A hall in Timon\u2019s house."
@@ -1202,7 +1204,8 @@ acts:
     - speaker: null
       lines:
       - '[Exit]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: "A Senator\u2019s house."
@@ -1721,7 +1724,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: "A room in Lucullus\u2019 house."
@@ -2763,7 +2767,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: Without the walls of Athens.
@@ -3834,7 +3839,8 @@ acts:
       - '[Exit FLAVIUS. TIMON retires to his cave]'
       - '[Enter Poet and Painter; TIMON watching]'
       - them from his cave]
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: "The woods. Before Timon\u2019s cave."

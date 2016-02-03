@@ -1,3 +1,4 @@
+id: henry6p3
 date: '1590'
 title: Henry VI, Part III
 full_title: History of Henry VI, Part III
@@ -53,7 +54,8 @@ characters:
   warwick: Earl of Warwick
   westmoreland: Earl of Westmoreland
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: London. The Parliament-house.
@@ -1121,7 +1123,8 @@ acts:
     - speaker: null
       lines:
       - '[Flourish. Exeunt]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: "A plain near Mortimer\u2019s Cross in Herefordshire."
@@ -2203,7 +2206,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: A forest in the north of England.
@@ -3219,7 +3223,8 @@ acts:
     - speaker: null
       lines:
       - '[Exit]'
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: London. The palace.
@@ -4276,7 +4281,8 @@ acts:
       - '[Exeunt]'
       - '[Enter WARWICK, the Mayor of Coventry, two Messengers,]'
       - and others upon the walls]
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: Coventry.

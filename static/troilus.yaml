@@ -1,3 +1,4 @@
+id: troilus
 date: '1601'
 title: Troilus and Cressida
 full_title: Troilus and Cressida
@@ -33,7 +34,8 @@ characters:
   Troilus: Troilus
   Ulysses: Ulysses
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 0
     title: Prologue.
@@ -1406,7 +1408,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: A part of the Grecian camp.
@@ -2496,7 +2499,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: "Troy. Priam\u2019s palace."
@@ -3676,7 +3680,8 @@ acts:
       - '[Enter, from one side, AENEAS, and Servant with a]'
       - torch; from the other, PARIS, DEIPHOBUS, ANTENOR,
       - DIOMEDES, and others, with torches]
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: Troy. A street.
@@ -4953,7 +4958,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: "The Grecian camp. Before Achilles\u2019 tent."

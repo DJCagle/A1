@@ -1,3 +1,4 @@
+id: loveslabours
 date: '1594'
 title: Love's Labour's Lost
 full_title: Love's Labour's Lost
@@ -22,7 +23,8 @@ characters:
   Rosaline-lll: Rosaline
   SirNathaniel: Sir Nathaniel
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: "The king of Navarre\u2019s park."
@@ -913,7 +915,8 @@ acts:
       - '[Exit]'
       - '[Enter the PRINCESS of France, ROSALINE, MARIA,]'
       - KATHARINE, BOYET, Lords, and other Attendants]
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: The same.
@@ -1435,7 +1438,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: The same.
@@ -1820,7 +1824,8 @@ acts:
       - '[Exit]'
       - '[Enter the PRINCESS, and her train, a Forester,]'
       - BOYET, ROSALINE, MARIA, and KATHARINE]
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: The same.
@@ -3048,7 +3053,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: The same.

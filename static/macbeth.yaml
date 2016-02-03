@@ -1,3 +1,4 @@
+id: macbeth
 date: '1605'
 title: Macbeth
 full_title: The Tragedy of Macbeth
@@ -43,7 +44,8 @@ characters:
   son-mac: Son
   youngsiward: Young Siward
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: A desert place.
@@ -917,7 +919,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: "Court of Macbeth\u2019s castle."
@@ -1647,7 +1650,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: Forres. The palace.
@@ -2516,7 +2520,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: A cavern. In the middle, a boiling cauldron.
@@ -3210,7 +3215,7 @@ acts:
       lines:
       - Fit to govern!
       - No, not to live. O nation miserable,
-      - With an cs3320-a1 tyrant bloody-scepter'd,
+      - With an untitled tyrant bloody-scepter'd,
       - When shalt thou see thy wholesome days again,
       - Since that the truest issue of thy throne
       - By his own interdiction stands accursed,
@@ -3473,7 +3478,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: Dunsinane. Ante-room in the castle.

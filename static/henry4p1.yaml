@@ -1,3 +1,4 @@
+id: henry4p1
 date: '1597'
 title: Henry IV, Part I
 full_title: History of Henry IV, Part I
@@ -38,7 +39,8 @@ characters:
   westmoreland: Earl of Westmoreland
   worcester: Earl of Worcester
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: London. The palace.
@@ -966,7 +968,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: Rochester. An inn yard.
@@ -2542,7 +2545,8 @@ acts:
     - speaker: peto
       lines:
       - Good morrow, good my lord.
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: "Bangor. The Archdeacon\u2019s house."
@@ -3570,7 +3574,8 @@ acts:
     - speaker: null
       lines:
       - '[Exit]'
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: The rebel camp near Shrewsbury.
@@ -4196,7 +4201,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: "KING HENRY IV\u2019s camp near Shrewsbury."

@@ -1,3 +1,4 @@
+id: richard3
 date: '1592'
 title: Richard III
 full_title: History of Richard III
@@ -66,7 +67,8 @@ characters:
   ThomasRotherham: Thomas Rotherham
   Tressel: Tressel
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: London. A street.
@@ -1893,7 +1895,8 @@ acts:
       - '[Flourish. Enter KING EDWARD IV sick, QUEEN]'
       - ELIZABETH, DORSET, RIVERS, HASTINGS, BUCKINGHAM,
       - GREY, and others]
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: London. The palace.
@@ -2652,7 +2655,8 @@ acts:
       - '[Exeunt]'
       - '[The trumpets sound. Enter the young PRINCE EDWARD,]'
       - GLOUCESTER, BUCKINGHAM, CARDINAL, CATESBY, and others]
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: London. A street.
@@ -4148,7 +4152,8 @@ acts:
       - YORK, and DORSET; on the other, ANNE, Duchess of
       - Gloucester, leading Lady Margaret Plantagenet,
       - CLARENCE's young Daughter]
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: Before the Tower.
@@ -5723,7 +5728,8 @@ acts:
       - '[Exeunt]'
       - '[Enter the Sheriff, and BUCKINGHAM, with halberds,]'
       - led to execution]
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: Salisbury. An open place.

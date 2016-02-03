@@ -1,3 +1,4 @@
+id: asyoulikeit
 date: '1599'
 title: As You Like It
 full_title: As You Like It
@@ -30,7 +31,8 @@ characters:
   william-ayli: William
   xxx: (stage directions)
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: "Orchard of OLIVER\u2019S house"
@@ -1021,7 +1023,8 @@ acts:
       - To hide us from pursuit that will be made
       - After my flight. Now go we in content
       - To liberty, and not to banishment.               Exeunt
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: The Forest of Arden
@@ -1861,7 +1864,8 @@ acts:
       - Thou art right welcome as thy master is.
       - Support him by the arm. Give me your hand,
       - And let me all your fortunes understand.         Exeunt
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: The palace
@@ -3052,7 +3056,8 @@ acts:
       - The matter's in my head and in my heart;
       - I will be bitter with him and passing short.
       - Go with me, Silvius.                             Exeunt
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: The forest
@@ -3745,7 +3750,8 @@ acts:
       lines:
       - I shall devise something; but, I pray you, commend my
       - counterfeiting to him. Will you go? Exeunt
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: The forest

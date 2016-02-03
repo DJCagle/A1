@@ -1,3 +1,4 @@
+id: tamingshrew
 date: '1593'
 title: Taming of the Shrew
 full_title: The Taming of the Shrew
@@ -39,7 +40,8 @@ characters:
   vincentio: Vincentio
   widow: Widow
 acts:
-- scenes:
+- act: 0
+  scenes:
   - act: 0
     scene: 1
     title: Before an alehouse on a heath
@@ -502,7 +504,8 @@ acts:
     - speaker: null
       lines:
       - A flourish of trumpets announces the play
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: Padua. A public place
@@ -1368,7 +1371,8 @@ acts:
       lines:
       - The motion's good indeed, and be it so.
       - Petruchio, I shall be your ben venuto.           Exeunt
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: "Padua. BAPTISTA\u2019S house"
@@ -2096,7 +2100,8 @@ acts:
     - speaker: null
       lines:
       - Exit
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: "Padua. BAPTISTA\u2019S house"
@@ -2705,7 +2710,8 @@ acts:
     - speaker: baptista
       lines:
       - She shall, Lucentio. Come, gentlemen, let's go.
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: "PETRUCHIO\u2019S country house"
@@ -4003,7 +4009,8 @@ acts:
       - Well, Petruchio, this has put me in heart.
       - Have to my widow; and if she be froward,
       - Then hast thou taught Hortensio to be untoward.    Exit
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: "Padua. Before LUCENTIO\u2019S house"

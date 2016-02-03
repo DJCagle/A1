@@ -1,3 +1,4 @@
+id: henry6p2
 date: '1590'
 title: Henry VI, Part II
 full_title: History of Henry VI, Part II
@@ -70,7 +71,8 @@ characters:
   salisbury: Earl of Salisbury
   warwick: Earl of Warwick
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: London. The palace.
@@ -1139,7 +1141,8 @@ acts:
       - '[Exeunt]'
       - '[Enter KING HENRY VI, QUEEN MARGARET, GLOUCESTER,]'
       - CARDINAL, and SUFFOLK, with Falconers halloing]
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: "Saint Alban\u2019s."
@@ -2087,7 +2090,8 @@ acts:
       - '[Sound a sennet. Enter KING HENRY VI, QUEEN]'
       - MARGARET, CARDINAL, SUFFOLK, YORK, BUCKINGHAM,
       - SALISBURY and WARWICK to the Parliament]
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: "The Abbey at Bury St. Edmund\u2019s."
@@ -3322,7 +3326,8 @@ acts:
       - '[Alarum. Fight at sea. Ordnance goes off. Enter a]'
       - Captain, a Master, a Master's-mate, WALTER WHITMORE,
       - and others; with them SUFFOLK, and others, prisoners]
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: The coast of Kent.
@@ -4719,7 +4724,8 @@ acts:
       - '[Exit]'
       - '[Enter YORK, and his army of Irish, with drum]'
       - and colours]
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: Fields between Dartford and Blackheath.

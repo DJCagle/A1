@@ -1,3 +1,4 @@
+id: muchado
 date: '1598'
 title: Much Ado about Nothing
 full_title: Much Ado about Nothing
@@ -26,7 +27,8 @@ characters:
   verges: Verges
   watchman-ma: Watchman
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: "Before LEONATO\u2019S house."
@@ -746,7 +748,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: "A hall in LEONATO\u2019S house."
@@ -1959,7 +1962,8 @@ acts:
     - speaker: null
       lines:
       - '[Exit]'
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: "LEONATO\u2019S garden."
@@ -3044,7 +3048,8 @@ acts:
       - '[Exeunt]'
       - '[Enter DON PEDRO, DON JOHN, LEONATO, FRIAR FRANCIS,]'
       - CLAUDIO, BENEDICK, HERO, BEATRICE, and Attendants]
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: A church.
@@ -3800,7 +3805,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: "Before LEONATO\u2019S house."

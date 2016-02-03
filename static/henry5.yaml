@@ -1,3 +1,4 @@
+id: henry5
 date: '1598'
 title: Henry V
 full_title: History of Henry V
@@ -49,7 +50,8 @@ characters:
   westmoreland: Earl of Westmoreland
   york: Duke of York
 acts:
-- scenes:
+- act: 0
+  scenes:
   - act: 0
     scene: 1
     title: Prologue.
@@ -96,7 +98,8 @@ acts:
     - speaker: null
       lines:
       - '[Exit]'
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: "London. An ante-chamber in the KING\u2019S palace."
@@ -645,7 +648,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt. Flourish]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 0
     title: Prologue.
@@ -1525,7 +1529,8 @@ acts:
     - speaker: null
       lines:
       - '[Flourish. Exeunt]'
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 0
     title: Prologue.
@@ -2746,7 +2751,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 0
     title: Prologue.
@@ -4438,7 +4444,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 0
     title: Prologue.

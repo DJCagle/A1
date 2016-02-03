@@ -1,3 +1,4 @@
+id: twogents
 date: '1594'
 title: Two Gentlemen of Verona
 full_title: Two Gentlemen of Verona
@@ -20,7 +21,8 @@ characters:
   Valentine-tg: Valentine
   dukemilan: Duke of Milan
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: Verona. An open place.
@@ -787,7 +789,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: "Milan. The DUKE\u2019s palace."
@@ -2080,7 +2083,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: "Milan. The DUKE\u2019s palace."
@@ -2922,7 +2926,8 @@ acts:
     - speaker: null
       lines:
       - '[Exeunt]'
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: The frontiers of Mantua. A forest.
@@ -3795,7 +3800,8 @@ acts:
     - speaker: null
       lines:
       - '[Exit]'
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: Milan. An abbey.

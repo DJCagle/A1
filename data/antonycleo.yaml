@@ -1,3 +1,4 @@
+id: antonycleo
 date: '1606'
 title: Antony and Cleopatra
 full_title: Antony and Cleopatra
@@ -60,7 +61,8 @@ characters:
   lepidus: Lepidus
   octavius: Octavius
 acts:
-- scenes:
+- act: 1
+  scenes:
   - act: 1
     scene: 1
     title: "Alexandria. A room in CLEOPATRA\u2019s palace."
@@ -1132,7 +1134,8 @@ acts:
       - '[Exeunt]'
       - '[Enter POMPEY, MENECRATES, and MENAS, in]'
       - warlike manner]
-- scenes:
+- act: 2
+  scenes:
   - act: 2
     scene: 1
     title: "Messina. POMPEY\u2019s house."
@@ -2781,7 +2784,8 @@ acts:
       - '[Enter VENTIDIUS as it were in triumph, with SILIUS,]'
       - and other Romans, Officers, and Soldiers; the dead
       - body of PACORUS borne before him]
-- scenes:
+- act: 3
+  scenes:
   - act: 3
     scene: 1
     title: A plain in Syria.
@@ -4456,7 +4460,8 @@ acts:
       - '[Exit]'
       - '[Enter OCTAVIUS CAESAR, AGRIPPA, and MECAENAS, with]'
       - his Army; OCTAVIUS CAESAR reading a letter]
-- scenes:
+- act: 4
+  scenes:
   - act: 4
     scene: 1
     title: "Before Alexandria. OCTAVIUS CAESAR\u2019s camp."
@@ -5835,7 +5840,8 @@ acts:
       - '[Exeunt; those above bearing off MARK ANTONY''s body]'
       - '[Enter OCTAVIUS CAESAR, AGRIPPA, DOLABELLA, MECAENAS,]'
       - GALLUS, PROCULEIUS, and others, his council of war]
-- scenes:
+- act: 5
+  scenes:
   - act: 5
     scene: 1
     title: "Alexandria. OCTAVIUS CAESAR\u2019s camp."

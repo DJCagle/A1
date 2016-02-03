@@ -2,9 +2,16 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Shakesphere's Plays</title>
+    <title>Plays of Shakespeare</title>
+    <h2>Plays of Shakespeare</h2>
 </head>
 <body>
+    <ul id="play_list">
 
+        {% for play in plays.values() %}
+            <li><a href="{{ url_for('play', aid=loop.index0) }}"> {{ play.title }} </a> &nbsp;({{ play.date }}) </li>
+        {% endfor %}
+
+    </ul>
 </body>
 </html>
