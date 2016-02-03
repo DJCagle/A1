@@ -5,7 +5,24 @@
     <title>play.title</title>
 </head>
 <body>
-<h1>{{ play.title }}</h1>
+
+<h1>{{ play.full_title }}</h1>
+
+<br>
+Date: {{ play.date }}
+<br>
+<br>
+
+Characters:
+<ul>
+    {% for pl in play.characters.items() %}
+    <li>{{  play.characters.values()[loop.index0] }}</li>
+    {% endfor %}
+</ul>
+
+<br>
+<br>
+
 
 </body>
 </html>
