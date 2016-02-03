@@ -1,13 +1,19 @@
+<<<<<<< HEAD
 ## gitignore template version 2
 ### Python template from PyCharm 'ignore' extension
+=======
+>>>>>>> c29730b582912fef828eda858158cb4715515b09
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+<<<<<<< HEAD
 /.idea
 /settings.py
 *.zip
 .DS_Store
+=======
+>>>>>>> c29730b582912fef828eda858158cb4715515b09
 
 # C extensions
 *.so
@@ -49,6 +55,10 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *,cover
+<<<<<<< HEAD
+=======
+.hypothesis/
+>>>>>>> c29730b582912fef828eda858158cb4715515b09
 
 # Translations
 *.mo
@@ -63,4 +73,9 @@ docs/_build/
 # PyBuilder
 target/
 
+<<<<<<< HEAD
 # Created by .ignore support plugin (hsz.mobi)
+=======
+#Ipython Notebook
+.ipynb_checkpoints
+>>>>>>> c29730b582912fef828eda858158cb4715515b09
