@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>play.title</title>
+    <title>{{   play.title   }}</title>
 </head>
 <body>
 
@@ -13,6 +13,7 @@ Date: {{ play.date }}
 <br>
 <br>
 
+<br>
 Characters:
 <ul>
     {% for pl in play.characters.items() %}
@@ -23,6 +24,16 @@ Characters:
 <br>
 <br>
 
+<ul id="act_list">
+        {% for act in play.acts %}
+            <li>Act: {{ act.act }} </li>
+            <ul id="scene_list">
+            {% for scene in act.scenes  %}
+                <li><a href="{{ url_for('play', play_id=loop.index0) }}"> Scene {{ [scene.scene] }} </a> </li>
+            {% endfor %}
+            </ul>
+        {% endfor %}
+</ul>
 
 </body>
 </html>

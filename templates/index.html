@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
     <title>Plays of Shakespeare</title>
     <h2>Plays of Shakespeare</h2>
 </head>
@@ -9,7 +10,7 @@
     <ul id="play_list">
 
         {% for play in plays.values() %}
-            <li><a href="{{ url_for('play', aid=loop.index0) }}"> {{ play.title }} </a> &nbsp;({{ play.date }}) </li>
+            <li><a href="{{ url_for('play', play_id=loop.index0) }}"> {{ play.title }} </a> &nbsp;({{ play.date }}) </li>
         {% endfor %}
 
     </ul>
